@@ -1,0 +1,6 @@
+EVENT:	NONE
+STATUS: Disabled
+SCRIPT:
+guild list
+group list
+buddy online
